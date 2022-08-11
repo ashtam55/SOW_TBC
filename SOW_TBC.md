@@ -83,24 +83,34 @@ Main high level tasks are given below -
 7. Documentation for the proposed changes in the system.
 
 ## Investment and Cost (To be discussed)
+### Plan 1
 
-* Man-hour required:  week ( Sensor delivery time not included )
-
-* Hardware required + Sourcing Cost + PCB printing charges: TBD
+* Man-hour required: 4 weeks
 
  * Payment Schedule
 
 | Milestone                                                      | Percentage    | Amount | 
 | -------------                                                  |:-------------:| -----: |  
-| Hardware Sourcing                                              | 0%            | TBD    |
-| First working prototypes                                       | 20%           | $1500  |
-| Second working prototypes                                      | 80%           | $600   |
-| Software handover + Documentation                              | 100%          | $200   |
+| First working prototypes                                       | 0%            | $300   |
+| Second working prototypes                                      | 20%           | $400   |
+| Software handover + Documentation                              | 100%          | $100   |
+
+### Plan 2
+
+* Man-hour required: 12 weeks
+
+* Payment Schedule
+
+| Milestone                                                      | Percentage    | Amount | 
+| -------------                                                  |:-------------:| -----: |  
+| First working prototypes                                       | 0%            | $500   |
+| Second working prototypes                                      | 20%           | $1000  |
+| third working prototypes                                       | 20%           | $900   |
+| fourth working prototypes                                      | 20%           | $800   |
+| Software handover + Documentation                              | 100%          | $300   |
 
 
-##### Devices/Sensors/PCB printing and delivery cost to be paid as a first milestone.
 ##### Milestone should be funded before LogicBots start working on that particular milestone.
-
 
 ## Customer Responsibilities
 * The nature of this engagement dictates that LogicBots receive a frequent and enthusiastic response from the appropriate personnel.
