@@ -70,7 +70,6 @@ Main high level tasks are given below -
     - Product reviews
     - Blog Post for increasing brand awareness
 
-
 2. Developing backend based on microservices architecture to make the site scalable. It will also help in future integration as every module have its own sets of API.
 
 3. Responsive in nature which supports all sets of devices - Mobile, Tablets, Desktop/Laptops.
@@ -86,29 +85,8 @@ Main high level tasks are given below -
 8. Documentation for the proposed changes in the system.
 
 ## Investment and Cost (To be discussed)
-#### Phase - 1
-In this phase Logicbots will be working on - 
-* Researching, brainstorming and finalizing the whole system architecture from hardware to software stack.
-* Develop a bare version 1 firmware of the system on breadboard to check the whole system efficiency.
 
-* Man-hour required: 12 week ( Sensor delivery time not included )
-
-* Hardware required & Sourcing Cost: TBD
-
- * Payment Schedule
-
-| Milestone                                                      | Percentage    | Amount | 
-| -------------                                                  |:-------------:| -----: |  
-| Hardware Sourcing + Research                                   | 50%            | (Hardware cost) + $1000 |
-| First working prototypes (with breakout board)                 | 100%           | $1500 |
-
-
-#### Phase - 2
-In this phase Logicbots will be working on - 
-* Designing the PCB, making the device compact in size and ensure all components are working.
-* Fabrication of the PCB end-to-end which includes sourcing the hardware, generate gerber files for printing the PCB and finding the right vendor for PCB manufactring.
-
-* Man-hour required: 8 week ( Sensor delivery time not included )
+* Man-hour required:  week ( Sensor delivery time not included )
 
 * Hardware required + Sourcing Cost + PCB printing charges: TBD
 
