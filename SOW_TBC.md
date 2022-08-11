@@ -78,11 +78,9 @@ Main high level tasks are given below -
 
 5. Adding filters on the basis of Age, Price, Brands etc.
 
-6. Integration of GSM module for providing internet connectivity.
+6. Software Access - top-level Git repositories for SDKs and APIs.
 
-7. Software Access - top-level Git repositories for SDKs and APIs.
-
-8. Documentation for the proposed changes in the system.
+7. Documentation for the proposed changes in the system.
 
 ## Investment and Cost (To be discussed)
 
