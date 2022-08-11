@@ -83,7 +83,7 @@ Main high level tasks are given below -
 7. Documentation for the proposed changes in the system.
 
 ## Investment and Cost (To be discussed)
-### Plan 1
+### Plan 1 Using Wordpress
 
 * Man-hour required: 4 weeks
 
@@ -95,7 +95,7 @@ Main high level tasks are given below -
 | Second working prototypes                                      | 20%           | $400   |
 | Software handover + Documentation                              | 100%          | $100   |
 
-### Plan 2
+### Plan 2 Using MERN Stack
 
 * Man-hour required: 12 weeks
 
