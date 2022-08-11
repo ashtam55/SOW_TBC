@@ -92,7 +92,7 @@ Main high level tasks are given below -
 | Milestone                                                      | Percentage    | Amount | 
 | -------------                                                  |:-------------:| -----: |  
 | First working prototypes                                       | 0%            | $300   |
-| Second working prototypes                                      | 20%           | $400   |
+| Second working prototypes                                      | 50%           | $400   |
 | Software handover + Documentation                              | 100%          | $100   |
 
 ### Plan 2 Using MERN Stack
@@ -104,9 +104,9 @@ Main high level tasks are given below -
 | Milestone                                                      | Percentage    | Amount | 
 | -------------                                                  |:-------------:| -----: |  
 | First working prototypes                                       | 0%            | $500   |
-| Second working prototypes                                      | 20%           | $1000  |
-| third working prototypes                                       | 20%           | $900   |
-| fourth working prototypes                                      | 20%           | $800   |
+| Second working prototypes                                      | 30%           | $1000  |
+| third working prototypes                                       | 50%           | $900   |
+| fourth working prototypes                                      | 80%           | $800   |
 | Software handover + Documentation                              | 100%          | $300   |
 
 
